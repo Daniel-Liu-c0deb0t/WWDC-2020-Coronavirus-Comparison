@@ -1,5 +1,5 @@
 # WWDC 2020: Coronavirus Comparison
-Efficiently comparing the 2019 coronavirus genome with a couple of other coronaviruses in Swift. This was created for the WWDC 2020 Swift Student Challenge.
+Efficiently comparing the 2019 coronavirus genome with a couple of other coronaviruses in Swift. This project was selected as a WWDC 2020 Swift Student Challenge winner!
 
 ![](cov_comparison_editor.png)
 
